@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "97cb04f6ba920ca1ff74",
+    "revision": "e4afb61ea0257a210af3",
     "url": "/css/app.ffbf0b24.css"
   },
   {
-    "revision": "0af112eeb5a35bbe5295",
-    "url": "/css/chunk-vendors.11330207.css"
+    "revision": "06ff5def3480dba4bb74",
+    "url": "/css/chunk-vendors.4f3564cf.css"
   },
   {
     "revision": "09f4068bb74fc78ffbce74f5596d6aa5",
@@ -164,20 +164,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/Inter.var.4b976905.woff2"
   },
   {
-    "revision": "6a2ddad1092a0a1c326b6d0e738e682b",
-    "url": "/fonts/materialdesignicons-webfont.6a2ddad1.ttf"
+    "revision": "0509ab09c1b0d2200a4135803c91d6ce",
+    "url": "/fonts/MaterialIcons-Regular.0509ab09.woff2"
   },
   {
-    "revision": "8a67040660444e8d8ee82a406d580d8f",
-    "url": "/fonts/materialdesignicons-webfont.8a670406.eot"
+    "revision": "29b882f018fa6fe75fd338aaae6235b8",
+    "url": "/fonts/MaterialIcons-Regular.29b882f0.woff"
   },
   {
-    "revision": "c32505e8c654310ece1da4e1c10eeb57",
-    "url": "/fonts/materialdesignicons-webfont.c32505e8.woff"
+    "revision": "96c476804d7a788cc1c05351b287ee41",
+    "url": "/fonts/MaterialIcons-Regular.96c47680.eot"
   },
   {
-    "revision": "dc85ceeb0daba687e36d8dde4ed4d352",
-    "url": "/fonts/materialdesignicons-webfont.dc85ceeb.woff2"
+    "revision": "da4ea5cdfca6b3baab285741f5ccb59f",
+    "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
     "revision": "a8b093a0fe72a8c6cc55e756103e21eb",
@@ -188,16 +188,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/img/neo_live_logo.svg"
   },
   {
-    "revision": "4445ab1e809075319e57fa681aea31d6",
+    "revision": "c58ba71281332368110d7682956d7ad1",
     "url": "/index.html"
   },
   {
-    "revision": "97cb04f6ba920ca1ff74",
-    "url": "/js/app.ae46aaaa.js"
+    "revision": "e4afb61ea0257a210af3",
+    "url": "/js/app.0c4d2dc8.js"
   },
   {
-    "revision": "0af112eeb5a35bbe5295",
-    "url": "/js/chunk-vendors.dfa4a759.js"
+    "revision": "06ff5def3480dba4bb74",
+    "url": "/js/chunk-vendors.f0044ad6.js"
   },
   {
     "revision": "c5709d7680cdec05b7d5c54ee11d3a40",
