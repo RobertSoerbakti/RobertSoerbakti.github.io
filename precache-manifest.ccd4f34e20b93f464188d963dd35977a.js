@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "568f795689669fa6eea1",
-    "url": "/css/app.16653850.css"
+    "revision": "606cf1774f102f36c798",
+    "url": "/css/app.0624288a.css"
   },
   {
-    "revision": "fc18910a7234718cf42f",
-    "url": "/css/chunk-vendors.61574b23.css"
+    "revision": "45ecebd4cd6d8e9971c6",
+    "url": "/css/chunk-vendors.5bff51a4.css"
   },
   {
     "revision": "09f4068bb74fc78ffbce74f5596d6aa5",
@@ -180,24 +180,20 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/fonts/MaterialIcons-Regular.da4ea5cd.ttf"
   },
   {
-    "revision": "a8b093a0fe72a8c6cc55e756103e21eb",
-    "url": "/img/Avatar.a8b093a0.png"
-  },
-  {
     "revision": "a195c63b87514c842989fc8a1c803de9",
     "url": "/img/neo_live_logo.svg"
   },
   {
-    "revision": "50499bf05fe4455d050abb9c8f76fe51",
+    "revision": "d3a8408276c8962aa322375494b285a3",
     "url": "/index.html"
   },
   {
-    "revision": "568f795689669fa6eea1",
-    "url": "/js/app.b90a04a7.js"
+    "revision": "606cf1774f102f36c798",
+    "url": "/js/app.f65dd15a.js"
   },
   {
-    "revision": "fc18910a7234718cf42f",
-    "url": "/js/chunk-vendors.f0044ad6.js"
+    "revision": "45ecebd4cd6d8e9971c6",
+    "url": "/js/chunk-vendors.de7419da.js"
   },
   {
     "revision": "c5709d7680cdec05b7d5c54ee11d3a40",
