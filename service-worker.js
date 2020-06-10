@@ -11,19 +11,13 @@
  * See https://goo.gl/2aRDsh
  */
 
-importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
+importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.ead9d1ae4e108e2a0944766adb1346c1.js"
+  "/agora_webrtc_troubleshooting/precache-manifest.28de82f4cb62f9d63744c7b608fddd04.js"
 );
 
-workbox.core.setCacheNameDetails({prefix: "live-reborn-web"});
-
-self.addEventListener('message', (event) => {
-  if (event.data && event.data.type === 'SKIP_WAITING') {
-    self.skipWaiting();
-  }
-});
+workbox.core.setCacheNameDetails({prefix: "agora-webrtc-precall-test"});
 
 /**
  * The workboxSW.precacheAndRoute() method efficiently caches and responds to
@@ -31,4 +25,5 @@ self.addEventListener('message', (event) => {
  * See https://goo.gl/S9QRab
  */
 self.__precacheManifest = [].concat(self.__precacheManifest || []);
+workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
