@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/agora_webrtc_troubleshooting/precache-manifest.ebf5dd903fb8205244526e76d58ae5da.js"
+  "/precache-manifest.5a1169302844680590d00c154eeb98d9.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "agora-webrtc-precall-test"});
